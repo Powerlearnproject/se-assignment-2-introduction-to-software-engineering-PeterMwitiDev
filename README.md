@@ -7,17 +7,37 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+__It is the application of  engineering principles in creating a software.Involve's design,developing,testing and maintaing.__
 
 What is software engineering, and how does it differ from traditional programming?
+__software engineerng is application of engineering priciplesin creating a software. It deffer from tradional since it focuses on the entire lifecycle(SDLC).__
+
 Software Development Life Cycle (SDLC):
-
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+ __Planning : Define the scope and pupose of the project.
+   Requirement : this are the need of the users and stackholders.
+   Design : Define the architecture of the systeme.guser interface.
+   Implementation: Writing code and building the software.
+   Testing: system shoul meet the quality standard.
+   Deployment:releasing software to the user or customer
+   Maintainance:Continuour enhancement of the system.__
 Agile vs. Waterfall Models:
-
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+__Agile is iterative while waterfall is linear.
+Agile is adaptable to changes while waterfall has low changes.
+Agile has continuos regular feedback while waterfall hass limited feedback.
+Agile testing occurs through out development while waterfall testing occurs afterimplementation.
+(Agile might be good for dinamic projects while waterfall for well defined projects)__
 Requirements Engineering:
-
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+__Refers to the process of gathering analising,managing and documenting all need of stakeholders project.
+Process involves: 
+   Elictation- gathering requirement through interviews,surveys and observations
+   analysis- analizing requiements
+   Specification - Docummenting the requiments clearly
+   Validation - ensureringrequirement meet stake holders needs
+   management-handling changesto the requirment.
+Importance include : Clarity,risk reduction,better estimation of time lines and good management of the project__
 Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
